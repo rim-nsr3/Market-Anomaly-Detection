@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn
+yfinance
+plotly
+streamlit
+imbalanced-learn
+talib
